@@ -1,0 +1,13 @@
+{
+  "email": "teste@teste.com",
+  "produto": "teste-jesus",
+  "upsells_comprados": [
+    1
+  ],
+  "data": "2025-08-20T18:06:46.822Z",
+  "transacao_id": "checkout_179902",
+  "acesso_liberado": true,
+  "nome": "teste teste",
+  "cpf": "19100000000",
+  "telefone": "11987206971"
+}
